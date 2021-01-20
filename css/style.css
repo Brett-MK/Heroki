@@ -52,6 +52,12 @@ pre {
   padding: 10px;
 }
 
+.hidden {
+  visibility: hidden;
+  height: 0;
+  margin: 0 !important;
+}
+
 /* Navbar */
 .navbar {
   background-color: var(--primary-color);
